@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+body {
+
+	background: #222;
+}
+
+#clock {
+
+	font-family: 'Covered By Your Grace', cursive;
+	font-size: 5em;
+	color:#db4844;
+	text-align: center;
+	margin: 1em;
+}
+
+#title {
+
+	font-family: 'Covered By Your Grace', cursive;
+	color: #f07c22;
+	font-size: 2em;
+	text-align: center;
+	margin: 1em;
+}
+
