@@ -39,6 +39,6 @@
 		}, 1000)
 	};
 
-	countdown('Apr 30 2020 00:00:00 GMT-0500', 'clock', 'Muchas Gracias');
+	countdown('Jun 26 2020 00:00:00 GMT-0500', 'clock', 'Muchas Gracias');
 
 
